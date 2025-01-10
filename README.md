@@ -10,7 +10,6 @@ This repository contains the code for my DPhil project at the University of Oxfo
 ├── notebooks/      # Jupyter notebooks for analysis and visualisation
 ├── results/        # Figures and tables
 ├── LICENSE         # Licence for the repository
-├── .gitignore      # Files or directories to ignore in version control
 ├── README.md       # Main documentation
 ```
 
@@ -22,6 +21,8 @@ I would like to thank Prof. Hugh Watkins, Prof. Charles Redwood, Dr. Calliope De
 
 ## Contact
 For questions or feedback, please contact:
+
 Siwei Deng
+
 siwei[dot]deng[at]cardiov[dot]ox[dot]ac[dot]uk
 
