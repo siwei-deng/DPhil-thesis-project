@@ -21,8 +21,7 @@ I would like to thank Prof. Hugh Watkins, Prof. Charles Redwood, Dr. Calliope De
 
 ## Contact
 For questions or feedback, please contact:
-
+```
 Siwei Deng
-
 siwei[dot]deng[at]cardiov[dot]ox[dot]ac[dot]uk
-
+```
