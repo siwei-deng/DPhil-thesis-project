@@ -3,7 +3,7 @@
 DPhil thesis project code repository of Siwei Deng
 
 ## Overview
-This repository contains the code for my DPhil project at the University of Oxford. The project aims to [briefly describe the purpose of your research, e.g., "develop novel machine learning methods for analysing genomic data" or "investigate the dynamics of quantum systems"]. 
+This repository contains the code for my DPhil project at the University of Oxford. The project aims to understand the transcriptomic dynamics of non-cardiomyocytes during both early and late stages of adverse remodelling in hypertrophic cardiomyopathy (HCM). 
 
 ## Repository Structure
 ```
